@@ -2,7 +2,7 @@
 
 ## Our Goal
 This is a Lunitha focused fork of [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) designed to create an open-source server implementation that aligns with the ideals of the Lunitha Movement. The mission is transparency and fun, ensuring anyone using this code knows exactly what is happening behind the scenes.  
-**This repository serves as a public source code reference** that follows the Lunitha way. Providing complete transparency in server code and modifications for those who wish to preserve and play classic games safely.
+**This repository serves as a public source code reference** that tries to follow the Lunitha way. Providing complete transparency in server code and modifications for those who wish to preserve and play classic games safely.
 
 ## What is AzerothCore?
 AzerothCore is an open-source game server application and framework designed for hosting massively multiplayer online role-playing games (MMORPGs). It is based on World of Warcraft and recreates the gameplay experience from patch 3.3.5a (Wrath of the Lich King).  
@@ -18,7 +18,7 @@ Below are the changes we have made to the original AzerothCore source:
 **Security**: All passwords are properly hashed using industry-standard methods before storage.
 
 ## Getting Started
-**For Players**: This repository is for source code transparency and educational purposes only.
+**For Players**: This repository is for source code transparency and educational purposes only.  
 **For Developers**: If you want to run your own server for personal/educational use, we recommend following the comprehensive setup guide in the [original AzerothCore repository](https://github.com/azerothcore/azerothcore-wotlk).
 
 ## Transparency & Safety
