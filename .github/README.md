@@ -27,7 +27,7 @@ Below are the changes we have made to the original AzerothCore source:
 - **Game Focused**: Our goal is purely to provide a fun and safe gaming experience
 
 ## Links
-- **Original Project**: [AzerothcCore WOTLK](https://github.com/azerothcore/azerothcore-wotlk)
+- **Original Project**: [AzerothCore WOTLK](https://github.com/azerothcore/azerothcore-wotlk)
 - **Original Credits**: [See AzerothCore Authors](https://github.com/azerothcore/azerothcore-wotlk/blob/master/AUTHORS)
 - **Original License**: [AzerothCore License](https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE)
 - **Original Documentation**: [AzerothCore Wiki](https://www.azerothcore.org/wiki)
