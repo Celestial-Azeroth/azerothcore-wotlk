@@ -13,7 +13,7 @@ Below are the changes we have made to the original AzerothCore source:
 | Feature               | Description                                                                  | Status   |
 |-----------------------|------------------------------------------------------------------------------|----------|
 | Auto Account Creation | Automatically creates new accounts when players log in with new credentials. | Not Possible  |  
-| [Reputation Hook](https://github.com/Celestial-Azeroth/azerothcore-wotlk/tree/feature/reputationChangedHook) | Adds a hook to allow modification of reputation gain amounts. | Other Branch |  
+| [Reputation Hook](https://github.com/Celestial-Azeroth/azerothcore-wotlk/tree/feature/reputationChangedHook) | Adds a hook to allow modification of reputation gain amounts. | Officially Merged |  
 
 **Security**: All passwords are properly hashed using industry-standard methods before storage.
 
