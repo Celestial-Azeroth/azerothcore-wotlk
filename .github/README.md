@@ -34,7 +34,7 @@ Below are the changes we have made to the original AzerothCore source:
 
 ## License
 This project maintains the same licensing as the original AzerothCore:
-- New AzerothCore source components: [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+- New AzerothCore source components: [GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 - Old sources based on MaNGOS/TrinityCore: [GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 **Important**: This is not an official Blizzard Entertainment product and is not affiliated with or endorsed by World of Warcraft or Blizzard Entertainment. This project is for educational and preservation purposes only.
